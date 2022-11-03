@@ -1,4 +1,4 @@
-# dimensionality_Reduction
+# Dimensionality_Reduction
 
 # Project Overview
 
